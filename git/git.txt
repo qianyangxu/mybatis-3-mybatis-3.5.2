@@ -1,0 +1,4 @@
+problem: Push to origin/master was rejected
+resolve:
+1.git pull origin master –allow-unrelated-histories
+2.git push -u origin master -f
